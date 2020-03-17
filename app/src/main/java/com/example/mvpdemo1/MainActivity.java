@@ -27,7 +27,6 @@ public class MainActivity extends AppCompatActivity implements Me {
     @Override
     public void drinkCola() {
         //拿到可乐了；
-        Log.e("Me","肥仔水真好喝");
-        Toast.makeText(this, "肥仔水真好喝——牛逼", Toast.LENGTH_SHORT).show();
+
     }
 }
