@@ -22,7 +22,7 @@ public class WangDaMa implements MiddlePeople {
     @Override
     public void buyCola() {
         Log.e("MiddlePeople","我来帮你买可乐");
-        //通知生产人生产可乐；
+        //通知生产人生产可乐； 牛
         toolPeople.produceCola();
     }
 
